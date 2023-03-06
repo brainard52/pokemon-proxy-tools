@@ -1,0 +1,32 @@
+Pokémon (13)
+2 Regieleki EVS 60
+1 Regieleki ASR 51
+2 Regice ASR 37
+2 Regirock ASR 75
+2 Regidrago ASR 118
+2 Regigigas ASR 130
+2 Registeel ASR 108
+
+Trainer (36)
+4 Professor's Research BRS 147
+3 Marnie CPA 56
+2 Serena SIT 164
+1 Boss's Orders BRS 132
+4 Scoop Up Net RCL 165
+4 Quick Ball FST 237
+3 Ordinary Rod SSH 171
+2 Ultra Ball CRZ 146
+2 Trekking Shoes CRZ 145
+1 Escape Rope BST 125
+1 Hisuian Heavy Ball ASR 146
+1 Energy Loto ASR 140
+3 Choice Belt BRS 135
+1 Cape of Toughness DAA 160
+4 Path to the Peak CRE 148
+
+Energy (11)
+4 Aurora Energy SSH 186
+2 Twin Energy RCL 174
+2 Speed Lightning Energy RCL 173
+2 Gift Energy LOR 171
+1 Capture Energy RCL 171

@@ -1,0 +1,35 @@
+Pokémon: 8
+3 Comfey LOR 79
+3 Sableye LOR 70
+1 Galarian Zigzagoon SSH 117
+2 Cramorant LOR 50
+2 Manaphy BRS 41 PH
+1 Drapion V LOR 182
+1 Radiant Charizard PGO 11
+1 Comfey CRZ-GG 14
+
+Trainer: 18
+1 Air Balloon SSH 156
+3 Switch Cart ASR 154
+1 Pokégear 3.0 SSH 174
+4 Escape Rope PRC 127
+1 Echoing Horn CRE 136
+4 Scoop Up Net RCL 165
+2 Fog Crystal CRE 140
+4 Battle VIP Pass FST 225
+2 Klara CRE 145
+2 Path to the Peak CRE 148
+4 Colress's Experiment LOR 155
+1 Magma Basin BRS 185
+1 Marnie SSH 169
+2 Lost Vacuum LOR 162
+1 Choice Belt BRS 135
+1 Roxanne ASR 150
+2 Quick Ball FST 237
+4 Cross Switcher FST 230
+
+Energy: 2
+4 Basic {P} Energy Energy 13
+2 Basic {R} Energy Energy 10
+
+Total Cards: 60

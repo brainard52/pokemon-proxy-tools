@@ -1,0 +1,2 @@
+1. Integrate pyforms-gui
+2. learn to freeze python programs for distribution to each platform

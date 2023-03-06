@@ -1,0 +1,18 @@
+Pokémon: 2
+1 Hisuian Zoroark LOR 76
+1 Hisuian Zoroark LOR 76 PH
+
+Trainer: 0
+
+Energy: 9
+1 Basic {D} Energy Energy 24
+1 Basic {F} Energy Energy 14
+1 Basic {G} Energy Energy 1
+1 Basic {L} Energy Energy 12
+1 Basic {M} Energy Energy 16
+1 Basic {P} Energy Energy 13
+1 Basic {R} Energy Energy 10
+1 Basic {W} Energy Energy 11
+1 Basic {Y} Energy Energy 17
+
+Total Cards: 11
